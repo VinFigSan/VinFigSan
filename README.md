@@ -1,6 +1,6 @@
-## Hi there, I'm Vinicius Figueiredo 👋\
+## Hi there, I'm Vinicius Figueiredo 👋
 
-### I am a lifelong learner of Data Science, mobile technologies, and Agile development\
+### I am a lifelong learner of Data Science, mobile technologies, and Agile development
 - 🔭 Currently working on my [graduation project](https://github.com/VinFigSan/tccOpenCV)
 - 🌱 Learning Django and Python
 - ⚡ Fun fact: I love writing about fictional universes
