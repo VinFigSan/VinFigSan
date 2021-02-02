@@ -1,8 +1,8 @@
 ## Hi there, I'm Vinicius Figueiredo 👋
 
-### I am a lifelong learner of Data Science, mobile technologies, and Agile development
-- 🔭 Currently working on my [graduation project](https://github.com/VinFigSan/tccOpenCV)
-- 🌱 Learning Django and Python
+### I am a lifelong learner of Web tecnologies and Data Science
+- 🔭 Currently not working ;-;
+- 🌱 Learning Javascript to make my own PWAs
 - ⚡ Fun fact: I love writing about fictional universes
 
 ### Contact in:
